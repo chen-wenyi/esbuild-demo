@@ -1,0 +1,1 @@
+var t=Object.defineProperty;var m=r=>t(r,"__esModule",{value:!0});var b=(r,n)=>{m(r);for(var o in n)t(r,o,{get:n[o],enumerable:!0})};b(exports,{myFunc:()=>i});function e(r){return r}function u(r){return r}function i(r,n){return e(r)+u(n)}console.log(i(1,"2"));

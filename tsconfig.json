@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es6",
+    "strictFunctionTypes": true,
+    "sourceMap": true,
+    "baseUrl": "src"
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
